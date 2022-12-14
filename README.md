@@ -13,3 +13,6 @@ This is where I'll back up and record the development process of my single playe
 * Move the scrags from behind the statue to under the balcony of the tribute room the player enters the room from. Put rockets as a pick up on the ground floor to encourage them to go down there. When they go down, then the scrags will go down. Maybe add an elevator to further show that the player can and should go down there? Once that platform lowers, it will stay down? I could have it go up and down but it might clutter up the floor of this arena space. I could have the elevator activated by a button and go up into the floor of the balcony. 
 * Have the door into the tribute room onto the balcony close behind the player
 * Maybe put another scrag in front of the main door to the tribute room that the player can't get through at this stage in the level. Would give some narrative as to why the player couldn't open that door before: it's being kept shut buy this scrag guard
+* 
+* 
+* Replace the rocket launcher with the grenade launcher
